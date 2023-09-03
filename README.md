@@ -6,11 +6,7 @@ This is simple example of building a To-do list web application using only HTML,
 
 git clone https://github.com/reMRKableDev/things-todo
 ```
-
-Running this on your terminal will ensure you receive the latest version with all it's changes.
-
-
-## Authors 💻
+\
 
 - Malcolm R. Kente - *Initial work* - [reMRKable Dev](https://remrkabledev.com/)
 
