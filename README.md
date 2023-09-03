@@ -1,8 +1,7 @@
 # Things To-Do 🚀🚀🚀
 
 
-This is simple example of building a To-do list web application using only HTML, CSS, & JavaScript. No frameworks or libraries are involved in this. 
-
+This is simple example of building a To-do list web application using only HTML, CSS, & JavaScript.
 
 git clone https://github.com/reMRKableDev/things-todo
 ```
