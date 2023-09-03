@@ -4,8 +4,7 @@
 This is simple example of building a To-do list web application using only HTML, CSS, & JavaScript.
 
 git clone https://github.com/reMRKableDev/things-todo
-```
-\
+
 
 - Malcolm R. Kente - *Initial work* - [reMRKable Dev](https://remrkabledev.com/)
 
