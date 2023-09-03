@@ -9,8 +9,6 @@ git clone https://github.com/reMRKableDev/things-todo
 
 Running this on your terminal will ensure you receive the latest version with all it's changes.
 
-### How To Use
-Once cloned, open the `index.html` on your computer's browser and start adding new to-do's
 
 ## Authors 💻
 
