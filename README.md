@@ -3,14 +3,7 @@
 
 This is simple example of building a To-do list web application using only HTML, CSS, & JavaScript. No frameworks or libraries are involved in this. 
 
-![todo-banner](assets/todo-banner.gif)
 
-## Getting started 🏁
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-### Installing
-To get this project on your local machine, you first need to clone it using the git clone command.
-```
 git clone https://github.com/reMRKableDev/things-todo
 ```
 
