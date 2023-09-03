@@ -3,7 +3,7 @@
 
 This is a To-do list web application using HTML, CSS, & JavaScript.
 
-git clone https://github.com/reMRKableDev/things-todo
+git c
 
 
  [reMRKable Dev](https://remrkabledev.com/)
